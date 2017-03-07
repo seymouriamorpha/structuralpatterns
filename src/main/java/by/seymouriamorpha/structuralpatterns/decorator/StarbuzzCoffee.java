@@ -10,16 +10,6 @@ import by.seymouriamorpha.structuralpatterns.decorator.decorators.Whip;
 
 /**
  * @author Eugene Kortelyov on 3/7/2017.
- *
- * Starbuzz cafe have problems with software. Their young developer creates so mush classes for each type of coffee.
- * For example:
- *      EspressoMocha
- *      EspressoSoy
- *      EspressoSoySoyWhip
- *      DecafMochaMochaSoyWhip ,etc
- * Last week young developer bought a book about structural patterns and found, that "Decorator" could help with
- * redundancy of the system.
- *
  */
 public class StarbuzzCoffee {
 
